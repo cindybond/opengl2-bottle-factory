@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/csse/users/cbo680/Documents/cosc363/Assignment1/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/assignment1.out.dir/assignment1.cpp.o -c /csse/users/cbo680/Documents/cosc363/Assignment1/assignment1.cpp",
+  "file": "/csse/users/cbo680/Documents/cosc363/Assignment1/assignment1.cpp",
+  "output": "CMakeFiles/assignment1.out.dir/assignment1.cpp.o"
+}
+]

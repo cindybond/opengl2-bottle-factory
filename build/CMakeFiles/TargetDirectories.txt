@@ -1,0 +1,3 @@
+/csse/users/cbo680/Documents/cosc363/Assignment1/build/CMakeFiles/assignment1.out.dir
+/csse/users/cbo680/Documents/cosc363/Assignment1/build/CMakeFiles/edit_cache.dir
+/csse/users/cbo680/Documents/cosc363/Assignment1/build/CMakeFiles/rebuild_cache.dir

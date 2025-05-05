@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/assignment1.out.dir/assignment1.cpp.o -o assignment1.out  /usr/lib/x86_64-linux-gnu/libGL.so /usr/lib/x86_64-linux-gnu/libGLU.so /usr/lib/x86_64-linux-gnu/libglut.so /usr/lib/x86_64-linux-gnu/libXi.so 
